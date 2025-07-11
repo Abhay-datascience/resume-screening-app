@@ -30,7 +30,7 @@ The **AI-Powered Resume Screening System** is a machine learning-based tool that
 ## 🏗️ Project Structure
 
 
-├── resumes/ # Folder with sample resumes (PDF)
+resumes/ # Folder with sample resumes (PDF)
 ├── job_description.txt # Job description file
 ├── model/ # Trained model files
 ├── main.py # Main script to run screening
@@ -58,6 +58,6 @@ You’re a recruiter looking to hire a Data Analyst. You upload 50 resumes and y
 
 ## 🙌 Acknowledgements
 
-**Inspired by real HR challenges**
-**Built by Abhay Saini as part of a practical AI project**
+• Inspired by real HR challenges
+• Built by Abhay Saini as part of a practical AI project
 
